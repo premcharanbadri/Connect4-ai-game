@@ -40,10 +40,4 @@ The project is live and accessible via the web. Users are required to log in to 
 
 ---
 
-### Research and Development Team
-* Manny Escalante
-* Keerti Rawat
-* Niharika Pappu
-* Rio Yokoyama
-
 *McCombs School of Business, The University of Texas at Austin*
